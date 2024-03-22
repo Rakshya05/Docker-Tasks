@@ -17,7 +17,7 @@ sudo apt install -y docker.io
 ```
 ## Task 1 : Pull image from Dockerhub 
 
-Suppose, we have to pull Nginx image from Dockerhub
+Suppose, we have to pull Nginx image from Dockerhub 
 
 1. Copy command from Dockerhub
 ```bash
